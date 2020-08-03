@@ -20,7 +20,7 @@ github.com/Azure/azure-sdk-for-go/services/network/mgmt/2019-07-01/network
 github.com/Azure/azure-sdk-for-go/services/resources/mgmt/2018-06-01/subscriptions
 github.com/Azure/azure-sdk-for-go/services/resources/mgmt/2019-05-01/resources
 github.com/Azure/azure-sdk-for-go/version
-# github.com/Azure/azure-storage-blob-go v0.0.0-20190104215108-45d0c5e3638e
+# github.com/Azure/azure-storage-blob-go v0.10.0
 ## explicit
 github.com/Azure/azure-storage-blob-go/azblob
 # github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78
@@ -481,6 +481,8 @@ github.com/google/pprof/profile
 github.com/google/pprof/third_party/d3
 github.com/google/pprof/third_party/d3flamegraph
 github.com/google/pprof/third_party/svgpan
+# github.com/google/uuid v1.1.1
+github.com/google/uuid
 # github.com/googleapis/gax-go v2.0.2+incompatible
 ## explicit
 github.com/googleapis/gax-go
